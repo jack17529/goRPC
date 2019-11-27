@@ -8,4 +8,5 @@ The conditions are -
 2. The functions all need to be exported that means that they should have upper case letters in starting.
 3. The functions need to have 2 arguments, in which both are to be exported types.
 
-*Exported types means that it should have upper case letter in it's structure. 
+*Exported type means that it should have upper case letter in it's structure. 
+
