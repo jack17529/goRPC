@@ -1,6 +1,6 @@
 # goRPC
 
-1. Write all the functions on a sample databse that suffice as crud application.
+1. Write all the functions on a sample databse that suffice as CRUD application.
 2. Now for it to be used by RPC it should satisfy certain conditions.
 
 The conditions are -
